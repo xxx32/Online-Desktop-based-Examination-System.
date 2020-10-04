@@ -25,7 +25,7 @@ Various Fields are:
 *A button to bookmark the question
 
 ## Result Displaying Screen: 
-## Various Fields are:
+Various Fields are:
 *Total Marks
 *Result(Correct/Incorrect)
 
