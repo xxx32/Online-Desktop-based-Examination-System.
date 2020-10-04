@@ -14,9 +14,9 @@ Use case analysis, Design: Class Diagram, CRC and Implementation, User Interface
 The Software should serve the purpose of examining the students Online and 
 
 ## Entering Questions: Various Fields are:
-*Questions
-*Options (4)
-*Correct Answer
+* Questions
+* Options (4)
+* Correct Answer
 
 ## Student Taking Exam Screen: 
 Various Fields are:
